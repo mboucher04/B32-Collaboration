@@ -47,7 +47,14 @@ void fct09() {
 printf("   \\    /\\\n");
 printf("    )  ( ') meow.\n");
 printf("   (   /  )\n");
-printf("    \\ (__)|\n");
+printf("    \\ (__)|\n\n");
+printf("8b,dPPYba,   ,adPPYba,   ,adPPYba,  8b,dPPYba,\n");
+printf("88P'    \"8a a8\"     \"8a a8\"     \"8a 88P'    \"8a\n");
+printf("88       d8 8b       d8 8b       d8 88       d8\n");
+printf("88b,   ,a8\" \"8a,   ,a8\" \"8a,   ,a8\" 88b,   ,a8\n");
+printf("88`YbbdP\"'   `\"YbbdP\"'   `\"YbbdP\"'  88`YbbdP\"'\n");
+printf("88                                  88\n");
+printf("88                                  88\n");
 }
 
 void fct10() {
